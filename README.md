@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B1BDFF&text=DH's%20Git&fontColor=7EFFA4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B1BDFF&animation=blink&text=DH's%20Git&fontColor=7EFFA4)
 
 <!--
 **lamsasa/lamsasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
