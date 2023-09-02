@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&animation=twinkling&text=DH's%20Git&fontAlign=75&fontColor=FFFFFF)
-
+[![lamsasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamsasa)](https://github.com/lamsasa/github-readme-stats)
 <!--
 **lamsasa/lamsasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
