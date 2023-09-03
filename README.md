@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&animation=twinkling&text=DH's%20Git&fontAlign=75&fontColor=FFFFFF)
 <!--[![lamsasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamsasa)](https://github.com/lamsasa/github-readme-stats)-->
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">✨ Skills ✨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 <!--
 **lamsasa/lamsasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
