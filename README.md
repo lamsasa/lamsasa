@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&animation=twinkling&text=DH's%20Git&fontAlign=75&fontColor=FFFFFF)
 <!--[![lamsasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamsasa)](https://github.com/lamsasa/github-readme-stats)-->
 <h3 align="center">✨ Notion ✨</h3>
-   <div style="text-align: center;">
+<div align="center">
     <a href="https://www.notion.so/Main-Home-5bd7df9d346c49a680511bf57c104ade" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     </a>
 </div>
-
 <h3 align="center">✨ Skills ✨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
