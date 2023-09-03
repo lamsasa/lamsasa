@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+  
 </p>
 <!--
 **lamsasa/lamsasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
