@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p>
-<h3 align="center"> </h3>
+<p> </p>
 <!--
 **lamsasa/lamsasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
